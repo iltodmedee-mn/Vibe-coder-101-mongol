@@ -1,0 +1,13 @@
+{
+  "name": "vibe-coder-101-mongol",
+  "version": "0.1.0",
+  "description": "Монгол vibe coder-уудад зориулсан skill-үүд: төлөвлөх, тест эхлээд бичих, алдаа засах, кодоо хянах гэх мэт. Бүгд Монгол хэлээр.",
+  "author": {
+    "name": "iltodmedee-mn",
+    "url": "https://github.com/iltodmedee-mn"
+  },
+  "homepage": "https://github.com/iltodmedee-mn/Vibe-coder-101-mongol",
+  "repository": "https://github.com/iltodmedee-mn/Vibe-coder-101-mongol",
+  "license": "MIT",
+  "keywords": ["mongol", "mongolian", "vibe-coding", "skills", "tdd", "code-review"]
+}

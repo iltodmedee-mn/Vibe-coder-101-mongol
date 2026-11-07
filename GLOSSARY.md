@@ -28,7 +28,7 @@ _Avoid_: транслит, латин монгол
 ## Контент
 
 **Эх repo**:
-Энэ plugin-ий контентыг авсан хоёр repo: mattpocock/skills ба affaan-m/ECC.
+Энэ plugin-ий контентыг авсан, MIT лицензтэй хоёр гадны repo. Нэр, зохиогч нь зөвхөн LICENSE-д бичигдэнэ.
 _Avoid_: upstream, original
 
 **Нийлмэл skill**:

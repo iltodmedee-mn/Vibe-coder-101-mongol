@@ -1,0 +1,16 @@
+{
+  "name": "vibe-coder-101-mongol",
+  "owner": {
+    "name": "iltodmedee-mn",
+    "url": "https://github.com/iltodmedee-mn"
+  },
+  "description": "Монгол vibe coder-уудад зориулсан Claude Code plugin.",
+  "plugins": [
+    {
+      "name": "vibe-coder-101-mongol",
+      "source": "./",
+      "description": "Монгол vibe coder-уудад зориулсан skill-үүд, бүгд Монгол хэлээр.",
+      "category": "engineering"
+    }
+  ]
+}
